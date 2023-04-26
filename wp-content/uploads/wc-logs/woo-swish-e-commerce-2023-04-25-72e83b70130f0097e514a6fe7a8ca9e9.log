@@ -1,0 +1,9 @@
+04-25-2023 @ 15:05:16 - --------------------
+04-25-2023 @ 15:05:16 - Swish API Exception file: /Applications/MAMP/htdocs/grupp-8/wp-content/plugins/woo-swish-e-commerce/classes/api/woo-swish-api-connection.php
+04-25-2023 @ 15:05:16 - Swish API Exception line: 191
+04-25-2023 @ 15:05:16 - Swish API Exception code: 422
+04-25-2023 @ 15:05:16 - Swish API Exception message: RP03 - Callback URL is missing or does not use Https
+04-25-2023 @ 15:05:16 - Swish API Exception Request URL: https://swish.finnvid.net/v1/mss/swish-cpcapi/api/v2/paymentrequests/40453D5388F94C01BA902317D8DF1398
+04-25-2023 @ 15:05:16 - Swish API Exception Request DATA: {"payeePaymentReference":"133","callbackUrl":"http://localhost:8888/grupp-8/wp-json/swish/callback?order_id=133","payerAlias":"4671234768","payeeAlias":"1234679304","amount":"933.10","currency":"SEK","message":""}
+04-25-2023 @ 15:05:16 - Swish API Exception Response DATA: [{"errorCode":"RP03","errorMessage":"Callback URL is missing or does not use Https","additionalInformation":""}]
+04-25-2023 @ 15:05:16 - --------------------

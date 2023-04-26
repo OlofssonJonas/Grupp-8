@@ -1,0 +1,32 @@
+2023-04-25T08:33:36+00:00 CRITICAL Uncaught Error: Call to undefined function the_posts() in /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupp-8/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupp-8/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupp-8/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php på rad 5
+
+2023-04-25T08:34:00+00:00 CRITICAL Uncaught Error: Call to undefined function the_posts() in /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php:5
+Stack trace:
+#0 /Applications/MAMP/htdocs/grupp-8/wp-includes/template-loader.php(106): include()
+#1 /Applications/MAMP/htdocs/grupp-8/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/grupp-8/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php på rad 5
+
+2023-04-25T08:34:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded i /Applications/MAMP/htdocs/grupp-8/wp-includes/class-wp-query.php på rad 3665
+
+2023-04-25T08:35:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded i /Applications/MAMP/htdocs/grupp-8/wp-includes/query.php på rad 948
+
+2023-04-25T08:35:32+00:00 CRITICAL syntax error, unexpected token ";" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php på rad 4
+
+2023-04-25T08:35:32+00:00 CRITICAL syntax error, unexpected token ";" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php på rad 4
+
+2023-04-25T08:35:33+00:00 CRITICAL syntax error, unexpected token ";" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php på rad 4
+
+2023-04-25T11:22:25+00:00 CRITICAL syntax error, unexpected token "<" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/functions.php på rad 6
+
+2023-04-25T11:23:25+00:00 CRITICAL syntax error, unexpected token "<" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/functions.php på rad 6
+
+2023-04-25T11:25:25+00:00 CRITICAL syntax error, unexpected token "<" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/functions.php på rad 6
+
