@@ -9,11 +9,12 @@ add_action('init', 'registerShop');
 function registerShop() {
 $shop_args = [
     "public" => true,
-    "label" => "butiker",
+    "label" => "Butiker",
     "show_in_rest" => true,
+    "has_archive" => true,
 ];
 
-register_post_type('Shop', $shop_args);
+register_post_type('shop', $shop_args);
 } 
 
 

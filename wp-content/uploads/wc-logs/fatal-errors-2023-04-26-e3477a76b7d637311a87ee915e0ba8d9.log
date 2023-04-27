@@ -82,3 +82,5 @@ Stack trace:
 
 2023-04-26T13:15:30+00:00 CRITICAL syntax error, unexpected token "}", expecting "," or ";" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/functions.php på rad 23
 
+2023-04-26T13:51:07+00:00 CRITICAL syntax error, unexpected token ":" i /Applications/MAMP/htdocs/grupp-8/wp-content/themes/storefront-child/home.php på rad 3
+
