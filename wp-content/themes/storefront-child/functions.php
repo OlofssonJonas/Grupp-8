@@ -17,8 +17,16 @@ $shop_args = [
 register_post_type('shop', $shop_args);
 } 
 
+add_action('woocommerce_review_order_after_submit', 'hej');
 
 
+function hej() { ?>
+   <?php echo "07xx-xx xx xx";?>
+<?php
+};
+?>
+
+<?php
 // function theme_widgets() {
 //     $widgets = array(
 //         array (
